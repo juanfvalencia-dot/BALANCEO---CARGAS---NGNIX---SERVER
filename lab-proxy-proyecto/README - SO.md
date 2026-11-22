@@ -68,7 +68,7 @@ Antes de iniciar, se debe contar con:
 Clonar el repositorio y entrar en la carpeta del proyecto:
 
 ```bash
-git clone <URL\_DEL\_REPOSITORIO>
+git clone https://github.com/juanfvalencia-dot/BALANCEO---CARGAS---NGNIX---SERVER
 cd lab-proxy-proyecto
 ```
 
